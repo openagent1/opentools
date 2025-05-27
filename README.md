@@ -1,5 +1,5 @@
 # opentools
-Tools like calendar, email, sms, docs, sheets, etc.
+An extensible architecture for tool-use, like calendar, email, sms, docs, sheets, etc.
 
 
 ## 📜 License
